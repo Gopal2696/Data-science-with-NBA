@@ -1,5 +1,4 @@
 # Data-science-with-NBA
-Data visualisation
 NBA and anlytics is something that amazes me, So I thought why don't merge them both.
 Therefore I made this project that uses Matplotlib, scikit, seaborn to visualize the data and uses Numpy, pandas to Manipulate and preprocess the Data
  
